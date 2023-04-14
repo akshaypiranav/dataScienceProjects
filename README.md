@@ -1,2 +1,2 @@
 # dataScienceProjects
-The Projects are performed by ML algorithm and Visualised
+The Projects are performed by ML algorithm and Visualised using Python or R programming.
